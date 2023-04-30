@@ -6,3 +6,12 @@
  
 # Run the jupyter notebook python file after loading the extracted txt file
 potential bugs will be shown in the output
+
+# Reference
+
+1. PR-Miner: automatically extracting implicit programming rules and detecting
+violations in large software code
+https://dl.acm.org/doi/10.1145/1095430.1081755
+2. Mining API patterns as partial orders from source code: from usage scenarios to
+specifications
+https://ieeexplore.ieee.org/abstract/document/7886912
